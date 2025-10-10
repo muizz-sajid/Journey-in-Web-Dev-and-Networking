@@ -440,4 +440,6 @@ To **Diagnose** and/or **Validate** service discovery issues (e.g., mDNS blocked
 
 - Ideally run this program on-premise.
 
+- This web program was not designed to be used on a phone or any hand held device.
+
 ---
